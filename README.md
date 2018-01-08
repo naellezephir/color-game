@@ -8,3 +8,4 @@ Fun, interactive game color matching game that uses HTML5, CSS, and JavaScript. 
 Wanted to create a quick, aethetically pleasing web application while reviewing my skills.
 
 # Pictures
+![image](https://user-images.githubusercontent.com/24598201/34693021-2b4b41c0-f490-11e7-838e-d6abe2337a8e.png)
