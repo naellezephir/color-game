@@ -1,0 +1,80 @@
+body{
+	/*background-color: white;*/
+	margin: 0;
+	font-family: "Bungee";
+}
+
+.square {
+	width: 30%;
+	margin: 1.66%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	border-radius: 60%;
+	transition: background .5s;
+	-webkit-transition: background .5s;
+	-moz-transition: background .5s;
+}
+
+#container {
+	max-width: 800px;
+	margin: 10px auto;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	/*background: black;*/
+	margin: 0;
+	text-transform: uppercase;
+	line-height: 1.1;
+	padding: 20px 0;
+	font-weight: lighter;
+}
+
+#stripe {
+	height: 30px;
+	background: white; 
+	text-align: center;
+}
+
+#message {
+	color: black;
+	display: inline-block;
+	width: 20%;
+	text-transform: uppercase;
+}
+
+.selected {
+	background: black;
+	color: white;
+	border-radius: 7px;
+}
+
+#answerColor {
+	font-size: 200%;
+	color: black;
+	font-weight: lighter; 
+}
+
+button {
+	border: none;
+	font-family: "Bungee";
+	background: none;
+	text-transform: uppercase;
+	height: 100%;
+	letter-spacing: 1px;
+	font-size: inherit;
+	font-weight: 700px;
+	color: black;
+	transition: all .3s;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	outline: none;
+}
+
+button:hover {
+	color: white;
+	background: black;
+	border-radius: 7px;
+}
