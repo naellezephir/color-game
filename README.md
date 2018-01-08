@@ -9,3 +9,6 @@ Wanted to create a quick, aethetically pleasing web application while reviewing 
 
 # Pictures
 ![image](https://user-images.githubusercontent.com/24598201/34693021-2b4b41c0-f490-11e7-838e-d6abe2337a8e.png)
+![image](https://user-images.githubusercontent.com/24598201/34693238-dc624198-f490-11e7-84bf-21ebf3f9c76c.png")
+![image](https://user-images.githubusercontent.com/24598201/34693244-e183d254-f490-11e7-9d95-2c99858c37a0.png")
+
